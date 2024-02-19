@@ -1,4 +1,4 @@
-nextの基礎を振り返り．　nextテンプレート未使用． 
+nextのページ遷移を振り返り．　nextテンプレート未使用． 
 
 （参考サイト）　　https://www.tohoho-web.com/ex/nextjs.html#about
 
